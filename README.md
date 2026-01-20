@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cmlostek
-- ⏰ Age: 22
+- ⏰ Age: 23
 - 👀 I’m interested in bioinformatics and biology-related computing problems!
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on projects or internships 
+- 🌱 I’m currently learning R and Swift
+- 💞️ I’m looking to collaborate on projects or internships
 - 📫 How to reach me cmlostek@charlotte.edu or colerm17@gmail.com
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I went skydiving for my 18th birthday!
